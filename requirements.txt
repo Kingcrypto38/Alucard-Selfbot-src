@@ -10,3 +10,4 @@ pyPrivnote
 gtts
 dnspython
 image
+django>=4.2.15 # not directly required, pinned by Snyk to avoid a vulnerability
